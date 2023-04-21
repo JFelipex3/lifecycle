@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: []
 })
 export class AppComponent {
-  title = 'lifecycle';
+  mostrar: boolean = true;
 }
